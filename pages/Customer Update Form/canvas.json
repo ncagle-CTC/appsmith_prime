@@ -989,7 +989,7 @@
               "resetFormOnClick": false,
               "boxShadow": "none",
               "widgetName": "logout_button",
-              "onClick": "{{auth.logout()}}",
+              "onClick": "{{logout.logout()}}",
               "buttonColor": "#f2f6f7",
               "dynamicPropertyPathList": [],
               "displayName": "Button",

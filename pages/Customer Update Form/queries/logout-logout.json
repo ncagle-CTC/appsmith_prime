@@ -3,7 +3,7 @@
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "logout",
-    "fullyQualifiedName": "auth.logout",
+    "fullyQualifiedName": "logout.logout",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -14,7 +14,7 @@
       "userPermissions": []
     },
     "pageId": "Customer Update Form",
-    "collectionId": "Customer Update Form_auth",
+    "collectionId": "Customer Update Form_logout",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -41,7 +41,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Customer Update Form_auth.logout",
+  "id": "Customer Update Form_logout.logout",
   "deleted": false,
   "gitSyncId": "637e63fff52e7b502f80e44a_638943759580547651ebdf96"
 }
